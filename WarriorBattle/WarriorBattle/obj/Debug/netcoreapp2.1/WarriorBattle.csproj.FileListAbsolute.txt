@@ -1,0 +1,11 @@
+F:\WarriorBattle\WarriorBattle\bin\Debug\netcoreapp2.1\WarriorBattle.deps.json
+F:\WarriorBattle\WarriorBattle\bin\Debug\netcoreapp2.1\WarriorBattle.runtimeconfig.json
+F:\WarriorBattle\WarriorBattle\bin\Debug\netcoreapp2.1\WarriorBattle.runtimeconfig.dev.json
+F:\WarriorBattle\WarriorBattle\bin\Debug\netcoreapp2.1\WarriorBattle.dll
+F:\WarriorBattle\WarriorBattle\bin\Debug\netcoreapp2.1\WarriorBattle.pdb
+F:\WarriorBattle\WarriorBattle\obj\Debug\netcoreapp2.1\WarriorBattle.csprojAssemblyReference.cache
+F:\WarriorBattle\WarriorBattle\obj\Debug\netcoreapp2.1\WarriorBattle.csproj.CoreCompileInputs.cache
+F:\WarriorBattle\WarriorBattle\obj\Debug\netcoreapp2.1\WarriorBattle.AssemblyInfoInputs.cache
+F:\WarriorBattle\WarriorBattle\obj\Debug\netcoreapp2.1\WarriorBattle.AssemblyInfo.cs
+F:\WarriorBattle\WarriorBattle\obj\Debug\netcoreapp2.1\WarriorBattle.dll
+F:\WarriorBattle\WarriorBattle\obj\Debug\netcoreapp2.1\WarriorBattle.pdb
